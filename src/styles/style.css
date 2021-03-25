@@ -7,17 +7,27 @@
     font-family:OpenSans ; 
     src: url(/fonts/OpenSans-Regular.ttf); 
    }
+body {
+font-family: OpenSans;
+font-size: 16px;
+line-height: 1.6em;
+color: #2A2626;
+}
 h1 {
     font-size: 72px;
-    line-height: 1.2em;}
+    line-height: 1.2em;
+    font-family: Neucha;
+}
 
 h2 {
     font-size: 60px;
     line-height: 1.2em;
+    font-family: Neucha;
 }
 h3{
     font-size: 34px;
     line-height: 1.2em;
+    font-family: Neucha;
 }
 section {
     max-width: 1110px;
