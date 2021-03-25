@@ -1,1 +1,27 @@
 /** CSS STYLE **/
+@font-face {
+    font-family:Neucha ; 
+    src: url(/fonts/Neucha-Regular.ttf); 
+   }
+@font-face {
+    font-family:OpenSans ; 
+    src: url(/fonts/OpenSans-Regular.ttf); 
+   }
+h1 {
+    font-size: 72px;
+    line-height: 1.2em;}
+
+h2 {
+    font-size: 60px;
+    line-height: 1.2em;
+}
+h3{
+    font-size: 34px;
+    line-height: 1.2em;
+}
+section {
+    max-width: 1110px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
